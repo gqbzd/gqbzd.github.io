@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"stuentlist.html",
-  "generationDate":new Date(1527758794597.2),
+  "generationDate":new Date(1527843569785.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -514,7 +514,164 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/stuentlist/u25.png"}}]}]}},
+                "normal~":"images/stuentlist/u25.png"}}]},
+{
+          "id":"6cf4bcefdceb41c482aa6f072ae5c30b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":160,
+              "y":80},
+            "size":{
+              "width":540,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"227e6dd644f94190975dbc3ded48c894",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":160,
+                  "y":80},
+                "size":{
+                  "width":540,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/stuentlist/u27.png"}},
+{
+          "id":"03634f6b75f34a069b140f02d79933d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":625,
+              "y":84},
+            "size":{
+              "width":63,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2464791ec5cf47819b372911a87ffb6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":625,
+                  "y":84},
+                "size":{
+                  "width":63,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/stuentlist/u29.png"}},
+{
+          "id":"9d3bd26ca822475990d6d875216f20b3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":581,
+              "y":87},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ad0a58a2b6f84f3dad8e3d87200031aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":581,
+                  "y":87},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"506a3f907fa24b14a3cc13f2a78979ed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":520,
+              "y":4},
+            "size":{
+              "width":150,
+              "height":56}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"05d7a35c6cff4143995dc91f892cc6a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":520,
+                  "y":4},
+                "size":{
+                  "width":150,
+                  "height":56}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/stuentlist/u33.png"}},
+{
+          "id":"6cd0fda839a744f1b31a7ba6ffc716a6",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":594,
+              "y":87}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a06765af11ab4a119ce18e1c6593d6f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":594,
+                  "y":87}},
+              "adaptiveStyles":{
+}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -571,4 +728,24 @@
     "00ceaeb375a34fa782a0e09b28515300":{
       "scriptId":"u25"},
     "7cc8983710e94e0eb03f05208efe871d":{
-      "scriptId":"u26"}}});
+      "scriptId":"u26"},
+    "6cf4bcefdceb41c482aa6f072ae5c30b":{
+      "scriptId":"u27"},
+    "227e6dd644f94190975dbc3ded48c894":{
+      "scriptId":"u28"},
+    "03634f6b75f34a069b140f02d79933d2":{
+      "scriptId":"u29"},
+    "2464791ec5cf47819b372911a87ffb6b":{
+      "scriptId":"u30"},
+    "9d3bd26ca822475990d6d875216f20b3":{
+      "scriptId":"u31"},
+    "ad0a58a2b6f84f3dad8e3d87200031aa":{
+      "scriptId":"u32"},
+    "506a3f907fa24b14a3cc13f2a78979ed":{
+      "scriptId":"u33"},
+    "05d7a35c6cff4143995dc91f892cc6a4":{
+      "scriptId":"u34"},
+    "6cd0fda839a744f1b31a7ba6ffc716a6":{
+      "scriptId":"u35"},
+    "a06765af11ab4a119ce18e1c6593d6f9":{
+      "scriptId":"u36"}}});

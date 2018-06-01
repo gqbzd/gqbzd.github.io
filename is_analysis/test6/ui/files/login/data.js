@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"login.html",
-  "generationDate":new Date(1527758794429.19),
+  "generationDate":new Date(1527843569474.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -139,7 +139,7 @@
               "x":200,
               "y":137},
             "size":{
-              "width":40,
+              "width":39,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -155,7 +155,7 @@
                   "x":200,
                   "y":137},
                 "size":{
-                  "width":40,
+                  "width":39,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -226,7 +226,65 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/login/u10.png"}}]}},
+            "normal~":"images/login/u10.png"}},
+{
+          "id":"f63bb29d39f74f29b25856b4fb5cadb3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":640,
+              "y":340},
+            "size":{
+              "width":69,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"81408d7da01b4f00af5345c8c4862728",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":640,
+                  "y":340},
+                "size":{
+                  "width":69,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"eaf5b90de29f4f968920cd45cf0a0bbf",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":510,
+              "y":280}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1543fab8bb0b4ca99f04a9b5433afba9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":510,
+                  "y":280}},
+              "adaptiveStyles":{
+}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -253,4 +311,12 @@
     "81b94c19de984890bdbbab37f766ffec":{
       "scriptId":"u10"},
     "92e38417043c4a01bdbb2fe3553e8636":{
-      "scriptId":"u11"}}});
+      "scriptId":"u11"},
+    "f63bb29d39f74f29b25856b4fb5cadb3":{
+      "scriptId":"u12"},
+    "81408d7da01b4f00af5345c8c4862728":{
+      "scriptId":"u13"},
+    "eaf5b90de29f4f968920cd45cf0a0bbf":{
+      "scriptId":"u14"},
+    "1543fab8bb0b4ca99f04a9b5433afba9":{
+      "scriptId":"u15"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"modmsg.html",
-  "generationDate":new Date(1527758794517.19),
+  "generationDate":new Date(1527843569674.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -294,6 +294,128 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2f5b15fd35fc41b2bc8b0570ef9233f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":232},
+            "size":{
+              "width":79,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"95f914b32e6d4c1a98e94821bd2300d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":550,
+                  "y":232},
+                "size":{
+                  "width":79,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c78e52561a6a4191a9358d13d137c851",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":520,
+              "y":232},
+            "size":{
+              "width":20,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79a6f2d6ec394f7f87ce1d083a959080",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":520,
+                  "y":232},
+                "size":{
+                  "width":20,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e526e7b567724d1d84e15ab8a3c26f20",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":510,
+              "y":310}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"169e0b34b637475dbab135a795786d36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":510,
+                  "y":310}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8030fef428634d9ebd2a4f64c6d71c4f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":630,
+              "y":324},
+            "size":{
+              "width":92,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b37fb07242e94126baeb6c3678be7fe1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":630,
+                  "y":324},
+                "size":{
+                  "width":92,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
@@ -329,4 +451,20 @@
     "918389eda8c741b381187a2cf56ec6bc":{
       "scriptId":"u14"},
     "6cfaaf752fc140618adcc51500d224b3":{
-      "scriptId":"u15"}}});
+      "scriptId":"u15"},
+    "2f5b15fd35fc41b2bc8b0570ef9233f5":{
+      "scriptId":"u16"},
+    "95f914b32e6d4c1a98e94821bd2300d1":{
+      "scriptId":"u17"},
+    "c78e52561a6a4191a9358d13d137c851":{
+      "scriptId":"u18"},
+    "79a6f2d6ec394f7f87ce1d083a959080":{
+      "scriptId":"u19"},
+    "e526e7b567724d1d84e15ab8a3c26f20":{
+      "scriptId":"u20"},
+    "169e0b34b637475dbab135a795786d36":{
+      "scriptId":"u21"},
+    "8030fef428634d9ebd2a4f64c6d71c4f":{
+      "scriptId":"u22"},
+    "b37fb07242e94126baeb6c3678be7fe1":{
+      "scriptId":"u23"}}});
